@@ -14,11 +14,11 @@ Hi, I'm **Sachin Shukla**, a coding enthusiast exploring the world of **C++** an
 This repository is my personal learning lab where I upload programs, problem solutions, and projects that help me strengthen my fundamentals.
 
 **Topics I explore:**
-- Object-Oriented Programming (OOP)
 - Data Structures
 - Algorithms
-- File Handling
 - Problem Solving
+
+
 
 
 
