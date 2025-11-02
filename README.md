@@ -1,8 +1,8 @@
 # 🚀 Sachin Shukla – C++ Projects and Practice
 
-![GitHub repo size](https://img.shields.io/github/repo-size/sachin142380/CPP-Projects)
-![GitHub stars](https://img.shields.io/github/stars/sachin142380/CPP-Projects?style=social)
-![GitHub forks](https://img.shields.io/github/forks/sachin142380/CPP-Projects?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/sachin142380/sachin-codebase)
+![GitHub stars](https://img.shields.io/github/stars/sachin142380/sachin-codebase?style=social)
+![GitHub forks](https://img.shields.io/github/forks/sachin142380/sachin-codebase?style=social)
 ![Language](https://img.shields.io/badge/language-C++-blue)
 ![Platform](https://img.shields.io/badge/platform-GitHub-black)
 ![Tool](https://img.shields.io/badge/tool-Git-orange)
@@ -20,13 +20,13 @@ This repository is my personal learning lab where I upload programs, problem sol
 
 | Folder Name | Description |
 |--------------|-------------|
-| `Programs/` | Contains small C++ programs and exercises |
-| `DSA/` | Includes data structure implementations (like arrays, stacks, queues, linked lists, trees, etc.) |
-| `Algorithms/` | Classic algorithm codes (sorting, searching, recursion, etc.) |
+| `Programs/` | Small C++ programs and practice exercises |
+| `DSA/` | Implementations of core data structures (arrays, stacks, queues, linked lists, trees, etc.) |
+| `Algorithms/` | Sorting, searching, and other algorithmic implementations |
 | `Projects/` | Mini projects made using C++ |
 | `Notes/` | My notes or theory references related to DSA & programming |
 
-> 💡 You can create these folders manually in your repo (Click **Add file → Create new file**, name it like `Programs/README.md` to make a folder).
+> 💡 To create a folder: Click **“Add file” → “Create new file”** and type `FolderName/README.md` (e.g., `Programs/README.md`).
 
 ---
 
@@ -40,17 +40,8 @@ This repository is my personal learning lab where I upload programs, problem sol
 
 ---
 
-## 🤝 Connect with Me
+## ⚙️ How to Run the Programs
 
-- 💼 [GitHub Profile](https://github.com/sachin142380)
-- 📫 Reach me at: **(add your email if you want)**
-
----
-
-🧠 *Created with ❤️ by Sachin Shukla*
-
-
-
-
-
-
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sachin142380/sachin-codebase.git
