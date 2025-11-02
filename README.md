@@ -1,11 +1,10 @@
 # 🚀 Sachin Shukla – C++ Projects and Practice
 
-![GitHub repo size](https://img.shields.io/github/repo-size/sachin-shukla/cpp-projects)
-![GitHub stars](https://img.shields.io/github/stars/sachin-shukla/cpp-projects?style=social)
-![GitHub forks](https://img.shields.io/github/forks/sachin-shukla/cpp-projects?style=social)
-![C++](https://img.shields.io/badge/language-C%2B%2B-blue?logo=cplusplus)
-![Git](https://img.shields.io/badge/tool-Git-orange?logo=git)
-![GitHub](https://img.shields.io/badge/platform-GitHub-black?logo=github)
+![GitHub repo size](https://img.shields.io/github/repo-size/sachin142380/CPP-Projects)
+![GitHub stars](https://img.shields.io/github/stars/sachin142380/CPP-Projects?style=social)
+![GitHub forks](https://img.shields.io/github/forks/sachin142380/CPP-Projects?style=social)
+![Language](https://img.shields.io/badge/language-C++-blue)
+![Platform](https://img.shields.io/badge/platform-GitHub-black)
 
 
 
