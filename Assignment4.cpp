@@ -1,28 +1,3 @@
-// //Display an array 
-// #include <iostream>
-// using namespace std;
-// void Display(int arr[], int size){
-//     cout << "Array elements are: ";
-//     for(int i = 0; i < size; i++){
-//         cout << arr[i] << " ";
-//     }
-// }
-// int main(){
-//     int n;
-//     cout << "Enter the number of elements in the array: ";
-//     cin >> n;
-//     int arr[n];
-//     cout << "Enter the elements of the array: ";
-//     for(int i = 0; i < n; i++){
-//         cin >> arr[i];
-//     }
-//     Display(arr, n);
-//     return 0;
-// }
-//Output:
-//Enter the number of elements in the array: 5
-//Enter the elements of the array: 10 20 30 40 50
-//Array elements are: 10 20 30 40 50
 
 //Append an array using function with user input
 #include <iostream>
@@ -1352,3 +1327,4 @@ int main(){
 //Output:
 //Doubly linked list elements are: 10 20 30 40
 //Reversed doubly linked list elements are: 40 30 20 10
+
